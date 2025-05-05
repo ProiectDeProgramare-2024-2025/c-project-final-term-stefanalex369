@@ -1,0 +1,9 @@
+-Guess the vowels first.
+
+-Analyze the length of the word.
+
+-Don't repeat letters you've already tried.
+
+-Use the most frequent letters (E, A, I, R).
+
+-Think logically, don't rush.
