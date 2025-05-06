@@ -1,0 +1,5 @@
+alex 10
+vlad 17
+cosmin 12
+alex 26
+alex 11
